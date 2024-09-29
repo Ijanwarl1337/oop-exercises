@@ -7,5 +7,6 @@ Nyttige links:
 ,→ Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Er det jul?](https://isitchristmas.com)
 ## Eksempel formatering:
-1. *Kursiv* text.
-2. **Fed** text.
+1. *Kursive* text.
+2. **FAT** text.
+Fun fact, only 0.2 grams of uranium-235 achived fission in 1945 over japan.
