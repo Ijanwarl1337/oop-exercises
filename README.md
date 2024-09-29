@@ -9,7 +9,7 @@ Nyttige links:
 ## Eksempel formatering:
 1. *Kursive* Highlight.
 2. **FAT** Highlight.
-Fun fact, only 0.2 grams of uranium-235 achived fission in 1945 over japan.
+Fun fact, only 0.2 grams of uranium-235 achieved fission in 1945 over japan.
 1. *Kursiv* Fremhævning.
 2. **Fed** Fremhævnin.
 
