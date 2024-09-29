@@ -8,5 +8,5 @@ Nyttige links:
 - [Er det jul?](https://isitchristmas.com)
 ## Eksempel formatering:
 1. *Kursive* Highlight.
-2. **FAT** Highligt.
+2. **FAT** Highlight.
 Fun fact, only 0.2 grams of uranium-235 achived fission in 1945 over japan.
